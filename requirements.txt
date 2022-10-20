@@ -1,0 +1,15 @@
+flask
+requests
+pyrebase4
+tensorflow-cpu == 2.7.0
+scikit-image == 0.18.3
+opencv-python == 4.1.2.30
+Pillow == 7.1.2
+mlflow==1.19.0
+omegaconf==2.1.1
+pytorch-lightning==1.5.9
+resnest==0.0.5
+torch==1.11.0
+torchmetrics==0.7.0
+timm==0.4.5
+onnxruntime==1.11.1
